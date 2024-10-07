@@ -1,6 +1,6 @@
 👋 Hi there! I'm a passionate developer with a knack for building robust applications across various platforms.
 
-💻 Skills:
+💻 _*Skills*_:
 
 🐘 PHP,
 🍏 Swift & SwiftUI,
