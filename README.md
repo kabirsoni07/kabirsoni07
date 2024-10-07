@@ -2,14 +2,14 @@
 
 💻 Languages & Frameworks:
 
-🐘 PHP
-🍏 Swift & SwiftUI
-☕ Java
-⚛️ React
-🌐 HTML, CSS, JavaScript
-🖥️ Node.js
-🔷 ASP.NET
-🤖 Android
+🐘 PHP,
+🍏 Swift & SwiftUI,
+☕ Java,
+⚛️ React,
+🌐 HTML, CSS, JavaScript,
+🖥️ Node.js,
+🔷 ASP.NET,
+🤖 Android,
 🖥️ XAMPP
 
 
